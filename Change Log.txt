@@ -1,6 +1,6 @@
 Change Log:
 V1.3
-Rediesigned GUI's
+Redesigned GUI's
 V1.2
 Updated Support for 1.7.10
 Added missing dirt chest
